@@ -1,4 +1,4 @@
-# Vertebral Column Data Set Analysis and K-Nearest Neighbors Classification
+# Classification using KNN on Vertebral Column Data Set
 
 ## Introduction
 This repository contains an analysis of the Vertebral Column Data Set, a biomedical dataset that classifies patients into Normal (NO) and Abnormal (AB) categories. The binary classification task aims to distinguish between NO (0) and AB (1) using the K-Nearest Neighbors (KNN) algorithm. 
